@@ -4,15 +4,11 @@
 
 **Digital VLSI SoC Design and Planning**
 
-2 Week digital VLSI SoC design and planning workshop with complete
-RTL2GDSII flow organized by VSD in collaboration with NASSCOM.
+2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII flow organized by VSD in collaboration with NASSCOM.
 ### Theory 
-
 **Package**
 
--   In any embedded board, the \"chip\" we observe is actually the
-    PACKAGE, which encases and protects the actual chip. The chip,
-    located at the package center, connects to the package via WIRE
+-   In any embedded board, the \"chip\" we observe is actually the PACKAGE, which encases and protects the actual chip. The chip, located at the package center, connects to the package via WIRE
     BONDING, a basic wired connection method.
 
 ![image](./media/image2.png)
