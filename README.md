@@ -1,6 +1,5 @@
 # 
-
-![image_alt]((https://github.com/shashlvs06/VSD-SOC-design-and-planning/tree/4dd55ab28666eade5b1d998c5d92cc85355ea3e6/openlane/media)) 
+![Picture6](https://github.com/user-attachments/assets/5aab9ad4-f55a-4004-b2d2-a1692b09a92f)
 
 **Digital VLSI SoC Design and Planning**
 
